@@ -8,7 +8,7 @@ The **DropDownMenu** component is a versatile dropdown menu for React applicatio
 ## Usage
 
 ### Basic Usage
-```
+```jsx
     <DropDownMenu>
       <DropDownMenu.MenuList>
         ```jsx
@@ -31,6 +31,4 @@ The **DropDownMenu** component is a versatile dropdown menu for React applicatio
  ```
 <DropDownMenu.MenuItem value='Option' style={{ color: 'blue', fontWeight: 'bold' }}>Option</DropDownMenu.MenuItem>
  ```
-
-
 
