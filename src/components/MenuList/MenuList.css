@@ -1,0 +1,9 @@
+.menu-list-container {
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.menu-list-container.active {
+  border-bottom: 1px solid #eee;
+}

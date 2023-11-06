@@ -1,0 +1,16 @@
+.menu-item-container {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  overflow: hidden;
+}
+
+.menu-item-container.active {
+  background-color: #f3f2f1;
+}
+
+.menu-item-container:hover {
+  background-color: #f3f2f1;
+}
