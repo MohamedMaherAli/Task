@@ -21,13 +21,13 @@ The **DropDownMenu** component is a versatile dropdown menu for React applicatio
 ```
 
 ### Required attrubites
- **value** attribute required for **<MenuItem />**
+ **value** attribute required for MenuItem
  ```
 <DropDownMenu.MenuItem value='Option'>Option</DropDownMenu.MenuItem>
  ```
 
 ### Optional attrubites
-**style** attribute optional for <MenuItem />
+**style** attribute optional for MenuItem 
  ```
 <DropDownMenu.MenuItem value='Option' style={{ color: 'blue', fontWeight: 'bold' }}>Option</DropDownMenu.MenuItem>
  ```
